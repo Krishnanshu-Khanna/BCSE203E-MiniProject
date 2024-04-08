@@ -1,7 +1,7 @@
 # Course Name/Code: Web Programming / BCSE203E
-## Faculty: Dr. V. Arulkumar (18875)
-## Submission due date: 18-Apr-2024
-## Class: L13+L14+L25+L26
+### Faculty: Dr. V. Arulkumar (18875)
+### Submission due date: 18-Apr-2024
+### Class: L13+L14+L25+L26
 
 ## Student Details
 - Name: Krishnanshu Khanna
