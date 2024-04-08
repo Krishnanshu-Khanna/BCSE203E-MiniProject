@@ -1,30 +1,23 @@
-# React + TypeScript + Vite
+# Course Name/Code: Web Programming / BCSE203E
+### Faculty: Dr. V. Arulkumar (18875)
+### Submission due date: 18-Apr-2024
+### Class: L13+L14+L25+L26
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Student Details
+- Name: Krishnanshu Khanna
+- Registration Number: 22BCT0046
 
-Currently, two official plugins are available:
+## Question 1: (for EVEN regno)
+### Scenario:
+Interactive Learning Platform for Kids (ReactJs UI Development):
+You want to create a fun and engaging website UI where children can learn basic math concepts
+through interactive games and quizzes using ReactJs.
+- Use components to Design a child-friendly interface with bright colors, clear instructions, and
+engaging animations.
+- Implement interactive games like drag-and-drop activities or matching exercises to teach math
+concepts.
+- Integrate features for progress tracking and rewards to keep children motivated.
+Use HTML, CSS, Javascript and ReactJs to build the website framework.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+### Submission
+- [Link to Submission](https://22bct0046-miniproject.vercel.app/)
